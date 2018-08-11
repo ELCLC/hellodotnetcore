@@ -11510,13 +11510,13 @@
       "projectName": "hellodotnetcore",
       "projectPath": "/Users/emmaleechoon/Documents/hellodotnetcore/hellodotnetcore.csproj",
       "packagesPath": "/Users/emmaleechoon/.nuget/packages/",
-      "outputPath": "/Users/emmaleechoon/Documents/hellodotnetcore/obj/",
+      "outputPath": "/Users/emmaleechoon/Documents/hellodotnetcore/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/emmaleechoon/.nuget/NuGet/NuGet.Config"
+        "/Users/emmaleechoon/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11538,16 +11538,16 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.1.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.1, )",
-            "autoReferenced": true
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.1.0, )",
-            "autoReferenced": true
+            "version": "2.1.1"
           }
         },
         "imports": [
