@@ -3,7 +3,6 @@
 /Users/emmaleechoon/Documents/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.runtimeconfig.dev.json
 /Users/emmaleechoon/Documents/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.dll
 /Users/emmaleechoon/Documents/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.pdb
-/Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.csprojAssemblyReference.cache
 /Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.csproj.CoreCompileInputs.cache
 /Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.RazorAssemblyInfo.cache
 /Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@
 /Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.RazorTargetAssemblyInfo.cache
 /Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.dll
 /Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.pdb
+/Users/emmaleechoon/Documents/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.csprojResolveAssemblyReference.cache

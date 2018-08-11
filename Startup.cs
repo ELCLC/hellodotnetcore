@@ -29,6 +29,8 @@ namespace hellodotnetcore
             {
                 await context.Response.WriteAsync("Hello Azure!");
             });
+
+            TMDBAPIClient.RunAsync().GetAwaiter().GetResult();
         }
     }
 }
